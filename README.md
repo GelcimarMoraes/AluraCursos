@@ -18,4 +18,4 @@
 
 ## Cursos
 
-
+- [x] [Lógica de programação:](https://github.com/GelcimarMoraes/AluraCursos/tree/main/logica-jsl) [Certificado](https://raw.githubusercontent.com/GelcimarMoraes/AluraCursos/refs/heads/main/img/logica-js.png)🏆
